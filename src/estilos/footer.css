@@ -1,0 +1,21 @@
+#footer {
+    padding: 20px;
+    background-color: #002d59;
+    color: white;
+    float: left;
+    margin-top: auto;
+    margin-bottom: 0px;
+}
+
+#enlaces {
+    display: flex;
+    justify-content: space-between;
+}
+#enlaces p {
+    border: 1px solid white;
+    padding: 5px;
+    border-radius: 32px;
+}
+#derechos {
+    text-align: center;
+}
